@@ -1,4 +1,4 @@
-# Wine Quality Analysis (Red vs White)
+# Cracking the Cork: A Comparative Feature Analysis of Red and White Wine Quality
 
 ## Project Overview
 This project explores the physicochemical factors that influence wine quality using red and white vinho verde wine datasets from Portugal. The analysis identifies which attributes are most strongly associated with quality scores and compares differences between wine types.
